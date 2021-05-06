@@ -1,0 +1,11 @@
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\bin\Debug\SquareCalculatorTests.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\bin\Debug\SquareCalculatorTests.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\bin\Debug\Figure.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\bin\Debug\Figure.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\obj\Debug\SquareCalculatorTests.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\SquareCalculatorTests\obj\Debug\SquareCalculatorTests.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\SquareCalculatorTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\SquareCalculatorTests\obj\Debug\SquareCalculatorTests.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\SquareCalculatorTests\obj\Debug\SquareCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\SquareCalculatorTests\obj\Debug\SquareCalculatorTests.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\Figure.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\Figure.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.abstractions.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.assert.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.core.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.abstractions.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.assert.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.core.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.dll
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csproj.CopyComplete
