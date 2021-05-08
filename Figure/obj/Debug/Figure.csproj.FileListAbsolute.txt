@@ -12,6 +12,4 @@ C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\De
 C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\bin\Debug\xunit.execution.dotnet.xml
 C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.dll
 C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.pdb
-C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
-C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Documents\Visual Studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csproj.CopyComplete
+C:\Users\Pc\documents\visual studio 2015\Projects\SquareCalculator\Figure\obj\Debug\Figure.csprojResolveAssemblyReference.cache
