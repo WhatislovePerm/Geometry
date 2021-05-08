@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Figure
 {
+    /// <summary>
+    /// Класс фигуры
+    /// </summary>
     public sealed class Figure
     {
         /// <summary>
