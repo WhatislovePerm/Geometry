@@ -1,1 +1,1 @@
-select * From Products ps left join Categories cat on ps.CategoryId = cat.id
+select * From Products ps left join Categories cat on ps.CategoryId = cat.Id
