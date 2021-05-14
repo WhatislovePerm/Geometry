@@ -10,7 +10,7 @@
 - Признак того, что фигура является прямоугольным треугольником
     `public bool IsRightTriangle => Sides.Length == 3 && CheckOnPythagoreanTriple() ? true : false;`
 
-- Полупериметр фигуры 
+- Полупериметр фигуры(Треугольник) 
     `public double? HalfMeter`
 #### Методы
 - Метод вычисления площади фигуры
