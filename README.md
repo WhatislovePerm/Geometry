@@ -11,7 +11,7 @@
     `public bool IsRightTriangle => Sides.Length == 3 && CheckOnPythagoreanTriple() ? true : false;`
 
 - Полупериметр фигуры 
-    `public double? halfMeter`
+    `public double? HalfMeter`
 #### Методы
 - Метод вычисления площади фигуры
     `public static double SquareCalc(Figure f)`
